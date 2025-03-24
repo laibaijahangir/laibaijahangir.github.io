@@ -8,9 +8,9 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Laiba Jahang
+  name: Laiba Jahangir
   tagline: Information Technology Student
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: me-modified.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: LaibaiJahangir@gmail.com
@@ -47,12 +47,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Currently attending George Mason University to obtain my Bachelor of Science in 
+    Information Technology with a concentration in Database Technology and Programming. 
+    Eager to learn more and develop my technical skills in Database Administration.
+    
 education:
   title: Education
   info:
@@ -66,21 +64,16 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: IT Help Desk Technician
+    time: 2023 - Present
+    company: George Mason University Facilities, Fairfax, VA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      •	Participate in the effective operation of the workplace by utilizing FreshDesk ticketing system, and maintaining equipment inventories
+      •	Provided technical support for 200+ faculty members related to end user’s computer systems, hardware, or software troubleshooting
+      •	Handled identity and access management; provisioning, supporting, and disabling user accounts and profiles using faculty database
+      •	Designed training manuals and training programs for new and future employees
+      •	Utilized Bomgar remote access software to provide technical troubleshooting support for remote faculty and staff members
+
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
