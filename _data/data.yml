@@ -120,12 +120,6 @@ projects:
   - title: OOP Python Programming Final Project
     tagline: "For my OOP Python Programming final project, I created a functional music player using Python. The software enabled users to edit, share, and purchase songs, with streamlined navigation features for a user-friendly experience. I applied object-oriented programming principles to build reusable functions and classes throughout the application."
 
-  - title: Atom
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 
 
 skills:
