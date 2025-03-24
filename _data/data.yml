@@ -65,182 +65,75 @@ experiences:
   title: Experiences
   info:
   - role: IT Help Desk Technician
-    time: 2023 - Present
-    company: George Mason University Facilities, Fairfax, VA
+    time: August 2023 - Present
+    company: George Mason University Facilities | Fairfax, VA
     details: |
-      •	Participate in the effective operation of the workplace by utilizing FreshDesk ticketing system, and maintaining equipment inventories
-      •	Provided technical support for 200+ faculty members related to end user’s computer systems, hardware, or software troubleshooting
-      •	Handled identity and access management; provisioning, supporting, and disabling user accounts and profiles using faculty database
-      •	Designed training manuals and training programs for new and future employees
-      •	Utilized Bomgar remote access software to provide technical troubleshooting support for remote faculty and staff members
+      •	Participate in the effective operation of the workplace by utilizing FreshDesk ticketing system, and maintaining equipment inventories.
+      •	Provided technical support for 200+ faculty members related to end user’s computer systems, hardware, or software troubleshooting.
+      •	Handled identity and access management; provisioning, supporting, and disabling user accounts and profiles using faculty database.
+      •	Designed training manuals and training programs for new and future employees.
+      •	Utilized Bomgar remote access software to provide technical troubleshooting support for remote faculty and staff members.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Cyber Security Services Intern
+    time: May 2022 - September 2022
+    company: IntelliPath Group | Alexandria, VA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      •	Conducted a Risk Management Framework assessment on USDA systems.
+      •	Managed System Development Life Cycle (SDLC) processes for federal IT systems.  
+      •	Collaborated with teams to address audit findings and recommend system improvements.
+
+  - role: Restaurant IT Intern
+    time: June 2020 - December 2021
+    company: Sharks Fish and Chicken | Washington, DC
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      •	Developed and maintained a restaurant website with online ordering and payment features.
+      •	Deployed and managed Toast POS systems across seven restaurant locations.
+      •	Created and installing digital menu boards using Adobe Photoshop and Microsoft PowerPoint.
+      •	Implemented a QR code ordering system, enhancing customer convenience.
+      •	Ensured timely hardware installations and regular system updates.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Security+ ce Certificate
+    start: 2025
+    end: 2028
+    organization: CompTIA
+    credentialid: TFLTL1G5TMF41DWZ
+    credentialurl: https://www.credly.com/badges/2734b04d-c3b9-4164-8c8b-aafa9d52b568/linked_in?t=sps7hw
+    credentialname:
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      CompTIA Security+ is a global certification that validates the baseline skills necessary to perform core security functions.
+  
 
 projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: IT Capstone Project: Inventory Management Optimization and Development
+    tagline: "Our Team collaborated with Mach V Motorsports to enhance their inventory management system and develop a custom CRM solution tailored to their automotive services. My work focused on optimizing product storage, prioritizing high-demand items, and reducing stock inefficiencies. I managed project communications to ensure clear expectations with the business sponsor and maintained a strong working relationship. Additionally, I contributed to project success by developing a risk management strategy to identify and mitigate potential implementation risks."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: OOP Python Programming Project
+    tagline: "For my OOP Python Programming project, I developed a functional app store using Python's graphical user interface. The application allowed users to view, edit, and purchase items in their shopping cart, with item descriptions dynamically generated by extracting data from a CSV file."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: OOP Python Programming Final Project
+    tagline: "For my OOP Python Programming final project, I created a functional music player using Python. The software enabled users to edit, share, and purchase songs, with streamlined navigation features for a user-friendly experience. I applied object-oriented programming principles to build reusable functions and classes throughout the application."
 
   - title: Atom
-    link: "#"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
   - title: Delta
-    link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Languages: Python, JavaScript, HTML, CSS, PowerShell, SQL
+  - name: Sofware: Windows, Mac OS X, Adobe Creative Suite, Microsoft Suite, JamF MDM,  Bomgar, Chrome Dev Tools, WordPress, Knack, FreshDesk, eBuilder
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
