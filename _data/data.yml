@@ -122,7 +122,12 @@ projects:
 
 skills:
   title: "Skills & Proficiency"
-
+  assignments:
+  - title: "Languages"
+    tagline: "Python, JavaScript, HTML, CSS, PowerShell, SQL"
+  - title: "Sofware"
+    tagline: "Windows, Mac OS X, Adobe Creative Suite, Microsoft Suite, JamF MDM,  Bomgar, Chrome Dev Tools, WordPress, Knack, FreshDesk, eBuilder"
+    
   toolset:
   - name: "Languages: Python, JavaScript, HTML, CSS, PowerShell, SQL"
   - name: "Sofware: Windows, Mac OS X, Adobe Creative Suite, Microsoft Suite, JamF MDM,  Bomgar, Chrome Dev Tools, WordPress, Knack, FreshDesk, eBuilder"
