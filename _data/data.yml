@@ -131,13 +131,10 @@ skills:
 
 
 oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  title: "Skills & Proficiency"
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Languages
+    tagline: "Python, JavaScript, HTML, CSS, PowerShell, SQL"
 
   - title: Atom
     link: "#"
