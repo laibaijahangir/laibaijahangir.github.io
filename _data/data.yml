@@ -120,29 +120,14 @@ projects:
 
 
 
-skills:
-  title: "Skills & Proficiency"
-  assignments:
-  - title: "Languages"
-    tagline: "Python, JavaScript, HTML, CSS, PowerShell, SQL"
-  - title: "Sofware"
-    tagline: "Windows, Mac OS X, Adobe Creative Suite, Microsoft Suite, JamF MDM,  Bomgar, Chrome Dev Tools, WordPress, Knack, FreshDesk, eBuilder"
-
-
-
 oss:
   title: "Skills & Proficiency"
   contributions:
   - title: Languages
     tagline: "Python, JavaScript, HTML, CSS, PowerShell, SQL"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: Software
+    tagline: "Windows, Mac OS X, Adobe Creative Suite, Microsoft Suite, JamF MDM,  Bomgar, Chrome Dev Tools, WordPress, Knack, FreshDesk, eBuilder"
 
 
 footer: >
